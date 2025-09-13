@@ -1,0 +1,50 @@
+header {
+    text-align: center;
+    padding: .25em;
+    background-color: #333;
+    color: white;
+    font-size: 1.5em;
+}
+
+header, main, footer{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+
+}
+
+main {
+    width: 400px;
+    margin: 0 auto;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+section {
+    margin: 2em 0;
+    background-color: #dddd;
+    padding: 1rem;
+}
+
+section h2 {
+    text-align: left;
+    border-bottom: solid #000 1px;
+
+}
+
+footer {
+    background-color: #333;
+    padding: .25em;
+    text-align: center;
+    color: #fff;
+}
