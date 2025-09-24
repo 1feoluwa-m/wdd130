@@ -31,6 +31,8 @@ main img {
     border: 1px solid black;
     padding: 2px;
     float: right;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
     box-shadow: 0 0 30px gray;
 }
 
@@ -40,6 +42,7 @@ p {
 
 main {
     max-width: 840px;
+    padding: 1em;
 }
 
 aside {
@@ -52,12 +55,13 @@ aside h2{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    top: 3rem;
+    top: 3.5rem;
 }
 
 aside img{
-    width: 200px;
+    width: 100%;
     height: auto;
+    text-align: center;
 }
 
 footer {
@@ -72,5 +76,8 @@ footer {
     border: 1px solid #75a1e2;
     background-color:  rgba(172, 159, 164, 0.959);
     color: #133261;
-    
+}
+
+.box li{
+    margin: 1em;
 }
