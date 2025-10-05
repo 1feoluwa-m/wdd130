@@ -1,10 +1,10 @@
 :root{
-    --primary-color: #1157ab;
+    --primary-color: #052347;
     --secondary-color: #622e30;
-    --footer-bg-color: #100f0f;
-    --accent1-color: #c04647;
-    --accent2-color: #3d816a;
-    --white: #f9efef;
+    --footer-bg-color: #070644e1;
+    --accent1-color: #04104e;
+    --accent2-color: #6192db;
+    --white: #ece3e3;
     --heading-font: "Times New Roman", "Georgia", serif;
     --body-font: Arial, Helvetica, sans-serif;
 }
@@ -152,7 +152,7 @@ header{
 
  .adventures figure {
     border: 2px solid var(--accent2-color);
-    padding: 1rem;
+    padding: .8rem;
     background-color: var(--white);
  }
 
@@ -160,6 +160,6 @@ footer{
     background-color: var(--footer-bg-color);
     color: var(--white);
     display: grid;
-    grid-template-columns: 3fr 1fr;
+    grid-template-columns: 2.5fr 1.5fr;
     align-items: center;
 }
