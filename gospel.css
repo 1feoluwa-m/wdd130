@@ -1,0 +1,25 @@
+article{
+    margin: 300px;
+    gap: 40px;
+    background-color: rgba(8, 18, 163, 0.87);
+    text-align: center;
+    color: antiquewhite;
+    width: 490px;
+    padding: 3.5em;
+    display: flex;
+    justify-self: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+    position: relative;
+    text-align: left;
+
+}
+
+img{
+    position: absolute;
+    text-align: center;
+    width: 600px;
+    justify-content: center;
+
+}

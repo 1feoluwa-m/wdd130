@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #bbb5b5;
+    color: #070101fd;
+    padding: 2em;
+    font-size: 1.5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+form{
+    width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border: 1px solid rgba(18, 46, 122, 0.37);
+    border-radius: .5rem;
+    background-color: #eee;
+    display: grid;
+}
+
+fieldset{
+    display: grid;
+    grid-gap: 2.5rem;
+    padding: 2rem;
+    margin: 1rem;
+    border: 2px solid #0a0707b4;
+}
+
+header{
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: 750px;
+    font-size: large;
+    text-align: center;
+}
+
+.me{
+    font-size: 1.1em;
+    padding: .4em;
+    margin: 0 auto;
+}
+
+
+label input button select textarea{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+label{
+    text-align: left;
+    padding: .2em;
+}
+
+input, select, textarea {
+    padding: .65rem;
+    font-size: 1rem;
+}
+
+button {
+  margin: 1rem;
+  background-color: navy;
+  color: #fff;
+  border: none;
+  border-radius: .5rem;
+  padding: .75rem;
+  font-size: 1.2rem;
+}
+
+button:hover {
+  background-color: #000;
+}
+
+.cry{
+    color: #fff;
+    background-color: #000;
+    padding: .35em;
+}
+
+
