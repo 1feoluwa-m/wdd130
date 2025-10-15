@@ -245,3 +245,17 @@ button:hover{
     font-size: 1.3em;
     font-weight: bold;
 }
+
+.ndex{
+    position: relative;
+    text-align: center;
+}
+
+.headin{
+    position: absolute;
+    top: 20px;
+    font-size: 2rem;
+    color: #fff;
+    text-align: center;
+}
+
