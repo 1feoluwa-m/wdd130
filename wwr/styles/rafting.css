@@ -415,7 +415,7 @@ table caption{
     list-style-type: none;
 }
 
-.minna nav ul a:hover{
+.minna nav li a:hover{
     background: #0760ce;
 }
 
