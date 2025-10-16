@@ -214,7 +214,7 @@ button{
     padding: .6rem;
     margin: 2em;
     width: 500px;
-    background: #0e33eeb9;
+    background: #323642e1;
     color: #fff;
     font-size: 1em;
 }
@@ -313,8 +313,8 @@ button:hover{
 
 .homee-1 form p{
     font-size: 1.45em;
-    background-color: #6192db;
-    color: #fff;
+    background-color: #061d6e8a;
+    color: #000;
     text-align: center;
 }
 
