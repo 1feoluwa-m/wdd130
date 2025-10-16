@@ -295,6 +295,10 @@ button:hover{
     background-color: #2d1dbd;
 }
 
+.call-action nav li{
+    list-style-type: none;
+}
+
 .call-action p{
     font-size: 1.3em;
 }
