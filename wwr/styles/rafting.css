@@ -395,7 +395,7 @@ table caption{
 .minna{
     box-sizing: border-box;
     border: 2px solid #000;
-    margin: 1.7em;
+    margin: 1.7em; 
 }
 
 .minna p{
@@ -404,11 +404,15 @@ table caption{
     text-align: center;
 }
 
-.minna nav ul a{
+.minna nav li a{
     display: flex;
     justify-content: center;
     background-color: #06285a;
     color: #fff;
+}
+
+.minna nav li{
+    list-style-type: none;
 }
 
 .minna nav ul a:hover{
