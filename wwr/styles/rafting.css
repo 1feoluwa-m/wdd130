@@ -30,15 +30,11 @@ h1, h2 {
     color: #fff;
 }
 
-h3, h4 {
+.mtcheew{
     text-align: center;
-     margin: .6em;
-}
-
-h5, h6{
     font-size: medium;
-    text-align: center;
     margin: .85em;
+    font-weight: bold;
 }
 
 nav, p, section, article {
